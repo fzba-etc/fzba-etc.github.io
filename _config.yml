@@ -19,11 +19,10 @@ nav_exclude:                                            # The following paths ar
   - pages/404.html
   - pages/index.md
 
-
 ### Author Info ###
 author:
   name              : fzba
-  image             : ./assets
+  image             : ./assets/profile-img.jpg
   # behance           : your_username
 # dribbble          : your_username
   # email             : username@domain.com
