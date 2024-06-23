@@ -23,7 +23,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : fzba
-  image             : /Users/fizabaloch/Downloads
+  image             : ./assets
   # behance           : your_username
 # dribbble          : your_username
   # email             : username@domain.com
